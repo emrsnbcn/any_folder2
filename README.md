@@ -29,6 +29,13 @@ Something about this project
 | John          | Doe       | USA   |
 | Caaron        | Ooi       | PEN   |
 
+**This is a bold text**
+*Italicized text*
+~~This is striked~~
+log<sub>2</sub>(8) = 3
+O(n<sup>2</sup>)
+
+
 <!-- This is a comment -->
 :rofl: :slightly_smiling_face: :face_in_clouds:
 
